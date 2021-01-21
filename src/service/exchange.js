@@ -14,6 +14,9 @@ const CRYPTOS = {
     UNI: "Uniswap",
     AAVE: "Aave",
     XTZ: "Tezos",
+    ATOM: "Cosmos",
+    DAI: "Dai",
+    MKR: "Maker",
 };
 export default CRYPTOS;
 

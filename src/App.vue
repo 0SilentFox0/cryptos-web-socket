@@ -2,7 +2,7 @@
 	<div id="app">
 		<NavBar/>
 		<b-container fluid class="bv-example-row">
-			<b-row class="mt-4">
+			<b-row class="justify-content-center align-items-baseline">
 				<b-col md="12" lg="2">
 					<CryptoList @select-crypto="selectedSymbol = $event"/>
 				</b-col>

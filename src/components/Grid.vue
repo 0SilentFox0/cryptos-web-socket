@@ -3,6 +3,7 @@
 		class="mt-4"
 		striped
 		hover
+		bordered
 		:items="cryptoData"
 		:fields="fields"/>
 </template>
